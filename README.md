@@ -1,5 +1,5 @@
 1. 使用前请 ```pip install jieba```
-2. 详细制作过程请看“敏感词检查.md”
+2. 详细制作过程请看[敏感词检查的程序制作](http://www.555dreams.xin/post/3/)
 3. jieba1.py是测试分词效果
 4. 使用方法：
     1. 可以在```\test\etc\1.txt```内自定义敏感词词典
